@@ -1,0 +1,8 @@
+﻿<td>{{employee.empName}}</td>
+<td>{{employee.empEmail}}</td>
+<td>{{employee.empSalary}}</td>
+<td>{{employee.active}}</td>
+<td>
+    <button type="button" class="btn btn-primary" ng-click="editEmployee(employee)">Edit</button>
+    <button confirm-delete type="button" ng-click="onDelete(employee.empID)" class="btn btn-danger" >Delete</button>
+</td>

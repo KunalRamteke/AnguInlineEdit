@@ -1,0 +1,9 @@
+F:\Kunal Projects\Sat\InlineEdit\bin\InlineEdit.dll.config
+F:\Kunal Projects\Sat\InlineEdit\bin\InlineEdit.dll
+F:\Kunal Projects\Sat\InlineEdit\bin\InlineEdit.pdb
+F:\Kunal Projects\Sat\InlineEdit\bin\InlineEdit.xml
+F:\Kunal Projects\Sat\InlineEdit\obj\Release\InlineEdit.Resources.resources
+F:\Kunal Projects\Sat\InlineEdit\obj\Release\InlineEdit.vbproj.GenerateResource.Cache
+F:\Kunal Projects\Sat\InlineEdit\obj\Release\InlineEdit.dll
+F:\Kunal Projects\Sat\InlineEdit\obj\Release\InlineEdit.xml
+F:\Kunal Projects\Sat\InlineEdit\obj\Release\InlineEdit.pdb

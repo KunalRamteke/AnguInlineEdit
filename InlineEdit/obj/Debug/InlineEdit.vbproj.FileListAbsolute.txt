@@ -7,3 +7,13 @@ F:\Kunal Projects\Sat\InlineEdit\obj\Debug\InlineEdit.vbproj.GenerateResource.Ca
 F:\Kunal Projects\Sat\InlineEdit\obj\Debug\InlineEdit.dll
 F:\Kunal Projects\Sat\InlineEdit\obj\Debug\InlineEdit.xml
 F:\Kunal Projects\Sat\InlineEdit\obj\Debug\InlineEdit.pdb
+F:\Projects\AnguInlineEdit\InlineEdit\bin\InlineEdit.dll.config
+F:\Projects\AnguInlineEdit\InlineEdit\bin\InlineEdit.dll
+F:\Projects\AnguInlineEdit\InlineEdit\bin\InlineEdit.pdb
+F:\Projects\AnguInlineEdit\InlineEdit\bin\InlineEdit.xml
+F:\Projects\AnguInlineEdit\InlineEdit\obj\Debug\InlineEdit.vbprojResolveAssemblyReference.cache
+F:\Projects\AnguInlineEdit\InlineEdit\obj\Debug\InlineEdit.Resources.resources
+F:\Projects\AnguInlineEdit\InlineEdit\obj\Debug\InlineEdit.vbproj.GenerateResource.Cache
+F:\Projects\AnguInlineEdit\InlineEdit\obj\Debug\InlineEdit.dll
+F:\Projects\AnguInlineEdit\InlineEdit\obj\Debug\InlineEdit.xml
+F:\Projects\AnguInlineEdit\InlineEdit\obj\Debug\InlineEdit.pdb
